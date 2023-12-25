@@ -1,0 +1,13 @@
+2023-55-15	20:55:12	adf30497-81a6-46ee-8ddb-0dc3331e5e9e	Error: Not allowed by CORS
+2023-55-15	20:55:50	4cac5ae4-8470-405e-ab99-bc5af17e457f	Error Not allowed by CORS
+2023-56-15	20:56:42	6ac5d9de-0f5a-49ad-b548-d70a5883ae91	Error Not allowed by CORS
+2023-56-15	20:56:54	164cefb7-24a7-4a3e-8c27-43c279a6ff2f	Error Not allowed by CORS
+2023-57-15	20:57:10	19515355-6b62-4b53-8eff-0f9694c8a0f8	Error Not allowed by CORS
+2023-06-19	13:06:08	0e59bc92-a91f-4f53-a595-40d055127f69	ReferenceError sendStatus is not defined
+2023-49-25	10:49:00	f15a7110-2b14-4150-bac1-f576a1486503	Error Cannot set headers after they are sent to the client
+2023-50-25	10:50:20	c0e4505d-6534-4abc-9ba4-012d896f815d	Error Cannot set headers after they are sent to the client
+2023-58-25	10:58:09	02fb5954-8308-49ec-a9fe-114df7c2b71c	Error Cannot set headers after they are sent to the client
+2023-12-25	11:12:18	0882035d-06db-4eba-b488-a510eed9849f	TypeError Cannot convert object to primitive value
+2023-14-25	11:14:13	31ba58ee-5329-4b67-bd0c-e561c2edf4a1	TypeError Cannot convert object to primitive value
+2023-18-25	11:18:16	42275a37-2e8c-4208-be38-a92c3ca84378	TypeError Cannot convert object to primitive value
+2023-18-25	11:18:48	768fbd9a-261e-47a2-bddf-b74ab573159d	TypeError cookies is not iterable
